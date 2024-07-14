@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio.git/static/css/main.8cbd146e.css",
+    "main.js": "/Portfolio.git/static/js/main.42120728.js",
+    "static/js/453.bf170949.chunk.js": "/Portfolio.git/static/js/453.bf170949.chunk.js",
+    "static/media/contact-bg.jpg": "/Portfolio.git/static/media/contact-bg.34a5a18c7295144631d0.jpg",
+    "static/media/FireShotCapture037_React App_localhost.jpg": "/Portfolio.git/static/media/FireShotCapture037_React App_localhost.918a5834489241007ed8.jpg",
+    "static/media/fresh-food.jpg": "/Portfolio.git/static/media/fresh-food.f9cd00cae747ce16b0ee.jpg",
+    "static/media/seo.jpg": "/Portfolio.git/static/media/seo.6bcd3f1167b406ea1f61.jpg",
+    "static/media/technos.png": "/Portfolio.git/static/media/technos.db18a54f1cf2638b1b1f.png",
+    "static/media/screens.jpg": "/Portfolio.git/static/media/screens.0a86655b7e4e2f075a26.jpg",
+    "static/media/restaurant-japonais.jpg": "/Portfolio.git/static/media/restaurant-japonais.12050b46a3cca523c6c9.jpg",
+    "static/media/coder.jpg": "/Portfolio.git/static/media/coder.e936b864e20943704d2a.jpg",
+    "static/media/hero-bg-tablette.jpg": "/Portfolio.git/static/media/hero-bg-tablette.58ca033b6577b1bda142.jpg",
+    "static/media/banner.jpg": "/Portfolio.git/static/media/banner.55f7c897ddbeb816abb9.jpg",
+    "static/media/croissance.jpg": "/Portfolio.git/static/media/croissance.b4a6811ba7f3f68fd799.jpg",
+    "static/media/google.jpg": "/Portfolio.git/static/media/google.9c0e16d300682c8ef8e4.jpg",
+    "static/media/graphique.png": "/Portfolio.git/static/media/graphique.2989f8b8d68f772c8634.png",
+    "static/media/john-doe-about.jpg": "/Portfolio.git/static/media/john-doe-about.07bb2b3f66fb2530c208.jpg",
+    "static/media/espace-bien-etre.jpg": "/Portfolio.git/static/media/espace-bien-etre.f6f025ed9a6d4d00b431.jpg",
+    "static/media/referencement.png": "/Portfolio.git/static/media/referencement.595a4354e4b478d15792.png",
+    "static/media/github.png": "/Portfolio.git/static/media/github.d3263084234dc705b2ae.png",
+    "static/media/linkedin.png": "/Portfolio.git/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/twitter.png": "/Portfolio.git/static/media/twitter.238735a89be24e3e5359.png",
+    "static/media/ecran-bleu.png": "/Portfolio.git/static/media/ecran-bleu.65773285d672360b7482.png",
+    "index.html": "/Portfolio.git/index.html",
+    "main.8cbd146e.css.map": "/Portfolio.git/static/css/main.8cbd146e.css.map",
+    "main.42120728.js.map": "/Portfolio.git/static/js/main.42120728.js.map",
+    "453.bf170949.chunk.js.map": "/Portfolio.git/static/js/453.bf170949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cbd146e.css",
+    "static/js/main.42120728.js"
+  ]
+}
